@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="coinname">Coin Name</string>
+    <string name="coinvalue">Coin Value</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
